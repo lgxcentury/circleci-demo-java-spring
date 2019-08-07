@@ -36,4 +36,5 @@ public class QuoteController {
         modelAndView.addObject("quotes", quotes);
         return modelAndView;
     }
+    
 }
